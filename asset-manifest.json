@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sash-wat.github.io/terp-thon-dashboard-master-2/static/css/main.f80ce67a.css",
+    "main.js": "/sash-wat.github.io/terp-thon-dashboard-master-2/static/js/main.a00ea39a.js",
+    "static/js/787.296f31cf.chunk.js": "/sash-wat.github.io/terp-thon-dashboard-master-2/static/js/787.296f31cf.chunk.js",
+    "static/media/solid-color-image.png": "/sash-wat.github.io/terp-thon-dashboard-master-2/static/media/solid-color-image.ab25b9677841515c150d.png",
+    "static/media/logo.svg": "/sash-wat.github.io/terp-thon-dashboard-master-2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sash-wat.github.io/terp-thon-dashboard-master-2/index.html",
+    "main.f80ce67a.css.map": "/sash-wat.github.io/terp-thon-dashboard-master-2/static/css/main.f80ce67a.css.map",
+    "main.a00ea39a.js.map": "/sash-wat.github.io/terp-thon-dashboard-master-2/static/js/main.a00ea39a.js.map",
+    "787.296f31cf.chunk.js.map": "/sash-wat.github.io/terp-thon-dashboard-master-2/static/js/787.296f31cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f80ce67a.css",
+    "static/js/main.a00ea39a.js"
+  ]
+}
